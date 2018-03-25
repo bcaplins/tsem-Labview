@@ -1,0 +1,18 @@
+# image files
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.img
+*.dat
+*.png
+*.tif
+*.tiff
+*.wmf
+*.svg
+*.ai
+*.pdf
+*.eps
+
+# ignore thumbnails
+*.db
